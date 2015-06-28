@@ -1,0 +1,20 @@
+Buenos Dias,
+
+Hemos creado el repositorio donde, salvo mejor parecer, cargaremos todo lo que tenga que ver con el trabajo de DSD.
+
+Este es el repositorio:
+
+	https://github.com/mcuya/DSDAppZone
+
+Estos somos los integrantes:
+
+201419682	TEJEDA PINTO, MANUEL ALEJANDRO			mtejeda21@gmail.com
+201317578	FLORES GUTIERREZ, WESFAL ANDRE			wes_drums@hotmail.com
+201301117	PINEDA MAGALLANES, MELISSA ELIZABETH	melissapineda07@gmail.com
+201121306	QUEZADA NIEVES, FELIX ALBERTO			felix.quezada.nieves@gmail.com
+201013844	RAYA GARCIA, JESUS MANUEL				jesusm.raya@gmail.com
+199810964	CUYA ROLDAN, MANUEL						fmcuya@gmail.com
+
+Saludos
+
+MC
